@@ -1,0 +1,5 @@
+com\tweetApp\FSE\Test\TweetControllerTest.class
+com\tweetApp\FSE\Test\UserControllerTest.class
+com\tweetApp\FSE\Test\UserServiceImplTest.class
+com\tweetApp\FSE\Test\TweetServiceImplTest.class
+com\tweetApp\FSE\TwitterApplicationTests.class
